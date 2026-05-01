@@ -1,4 +1,4 @@
-# WarehouseBot — Python Robot Simulator
+# WarehouseBot — Python Robot (Jupyter Notebook) Simulator
 
 ## Overview
 WarehouseBot is a beginner Python project where I am building a warehouse delivery robot using Object-Oriented Programming. The robot can move step by step, perform pickup and drop tasks, and track battery usage.
