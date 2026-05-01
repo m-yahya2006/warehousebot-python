@@ -9,11 +9,14 @@ WarehouseBot is a beginner Python project where I am building a warehouse delive
 - Battery tracking
 - Position tracking
 
+
 ## Visualization
-Using Matplotlib to visualize:
-- Robot path movement (line graph)
-- Pickup and drop locations (scatter plot)
-- Battery behavior
+The robot's behavior is visualized using Matplotlib:
+
+- Left: Robot path with pickup and drop positions
+- Right: Battery level decreasing over time
+
+![Robot Visualization](output.png)
 
 ## Technologies
 - Python
